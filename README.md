@@ -13,7 +13,7 @@ _The project aims to develop a comprehensive sales and profit tracking system fo
 
 + Dashboard Development:
 
-  Using Power BI, visually appealing and interactive dashboards created to display key sales and profit metrics. The dashboards provide an overview of sales performance, including revenue, units sold, average order value, and profit margins. It also incorporates data visualizations such as bar chat, pie chat, donut chat, stacked bar chart, cards, slicers, and filters to help stakeholders analyse trends and patterns.
+  Using Power BI, visually appealing and interactive dashboards created to display key sales and profit metrics. The dashboards provide an overview of sales performance, including revenue, units sold, average order value, and profit margins. It also incorporates data visualizations such as bar chat, pie chat, donut chat, stacked bar chart, cards, slicers (Different quaters of the year), and filters(Different States) to help stakeholders analyse trends and patterns.
   
 + Sales Analysis:
 
@@ -22,5 +22,7 @@ _The project aims to develop a comprehensive sales and profit tracking system fo
 + Profit Tracking:
 
   Alongside sales analysis, the system track and visualize profit margins to assess the financial health of the business. It provides insights into the profitability of individual products, product lines, and customer segments. This information assist in optimizing pricing strategies, identifying cost-saving opportunities, and focusing on high-margin products.
+  
+  ![image](image/image.png)
  
 `Overall, the project will empower the store management with actionable insights to drive sales growth and maximize profitability. By harnessing the power of data visualization and analytics, the project will enhance decision-making capabilities and provide a competitive edge in the home appliances market.`
